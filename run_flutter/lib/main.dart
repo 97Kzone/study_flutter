@@ -12,7 +12,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        home: Scaffold(
+      home: Scaffold(
       backgroundColor: const Color(0xFF181818),
       body: SingleChildScrollView(
         child: Padding(
